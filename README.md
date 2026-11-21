@@ -1,13 +1,13 @@
 # Retrograde Planets 2026
 
-An iCalendar feed of planetary retrograde periods active at some point in 2026. Events run from the retrograde station to the direct station and use the exact station times supplied for Sydney, Australia (`Australia/Sydney`).
+An iCalendar feed that flags each retrograde start and end as a separate all-day event. Station times and degrees are included in event details and use Sydney, Australia (`Australia/Sydney`).
 
 ## Subscribe or download
 
 - [Subscribe to the calendar](webcal://raw.githubusercontent.com/peesheena/retrograde-planets-2026/main/retrograde-planets-2026.ics)
 - [Download the ICS file](https://raw.githubusercontent.com/peesheena/retrograde-planets-2026/main/retrograde-planets-2026.ics)
 
-The feed includes retrograde periods that began in 2025 but continue into 2026, and periods that begin in 2026 but end in 2027. It includes Mercury, Venus, Jupiter, Saturn, Uranus, Neptune, Pluto, and Chiron; Mars has no retrograde period in 2026.
+The feed includes start/end flags for periods that began in 2025 but continue into 2026, and periods that begin in 2026 but end in 2027. It includes Mercury, Venus, Jupiter, Saturn, Uranus, Neptune, Pluto, and Chiron; Mars has no retrograde period in 2026.
 
 ## Events
 
