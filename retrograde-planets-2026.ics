@@ -1,0 +1,147 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//peesheena//Retrograde Planets 2026//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Retrograde Planets 2026
+X-WR-TIMEZONE:Australia/Sydney
+BEGIN:VTIMEZONE
+TZID:Australia/Sydney
+X-LIC-LOCATION:Australia/Sydney
+BEGIN:DAYLIGHT
+TZOFFSETFROM:+1000
+TZOFFSETTO:+1100
+TZNAME:AEDT
+DTSTART:19701004T020000
+RRULE:FREQ=YEARLY;BYMONTH=10;BYDAY=1SU
+END:DAYLIGHT
+BEGIN:STANDARD
+TZOFFSETFROM:+1100
+TZOFFSETTO:+1000
+TZNAME:AEST
+DTSTART:19700405T030000
+RRULE:FREQ=YEARLY;BYMONTH=4;BYDAY=1SU
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+UID:jupiter-2025-11-12-2026-03-11@retrograde-planets-2026
+DTSTAMP:20261121T052500Z
+DTSTART;TZID=Australia/Sydney:20251112T034100
+DTEND;TZID=Australia/Sydney:20260311T143000
+SUMMARY:Jupiter Retrograde (25°09' to 15°05')
+DESCRIPTION:Retrograde station at 25°09'; direct station at 15°05'. Dates
+ and times transcribed from Astro-Seek's 2026 retrograde planets calendar.
+URL:https://horoscopes.astro-seek.com/jupiter-retrograde-
+ astrology-calendar-2026#list
+END:VEVENT
+BEGIN:VEVENT
+UID:mercury-2026-02-26-2026-03-21@retrograde-planets-2026
+DTSTAMP:20261121T052500Z
+DTSTART;TZID=Australia/Sydney:20260226T174800
+DTEND;TZID=Australia/Sydney:20260321T063300
+SUMMARY:Mercury Retrograde (22°33' to 08°29')
+DESCRIPTION:Retrograde station at 22°33'; direct station at 08°29'. Dates
+ and times transcribed from Astro-Seek's 2026 retrograde planets calendar.
+URL:https://horoscopes.astro-seek.com/mercury-retrograde-
+ astrology-calendar-2026#list
+END:VEVENT
+BEGIN:VEVENT
+UID:mercury-2026-06-30-2026-07-24@retrograde-planets-2026
+DTSTAMP:20261121T052500Z
+DTSTART;TZID=Australia/Sydney:20260630T033600
+DTEND;TZID=Australia/Sydney:20260724T085800
+SUMMARY:Mercury Retrograde (26°15' to 16°18')
+DESCRIPTION:Retrograde station at 26°15'; direct station at 16°18'. Dates
+ and times transcribed from Astro-Seek's 2026 retrograde planets calendar.
+URL:https://horoscopes.astro-seek.com/mercury-retrograde-
+ astrology-calendar-2026#list
+END:VEVENT
+BEGIN:VEVENT
+UID:jupiter-2026-12-13-2027-04-13@retrograde-planets-2026
+DTSTAMP:20261121T052500Z
+DTSTART;TZID=Australia/Sydney:20261213T115600
+DTEND;TZID=Australia/Sydney:20270413T121100
+SUMMARY:Jupiter Retrograde (27°01' to 16°59')
+DESCRIPTION:Retrograde station at 27°01'; direct station at 16°59'. Dates
+ and times transcribed from Astro-Seek's 2026 retrograde planets calendar.
+URL:https://horoscopes.astro-seek.com/jupiter-retrograde-
+ astrology-calendar-2026#list
+END:VEVENT
+BEGIN:VEVENT
+UID:pluto-2026-05-07-2026-10-16@retrograde-planets-2026
+DTSTAMP:20261121T052500Z
+DTSTART;TZID=Australia/Sydney:20260507T013400
+DTEND;TZID=Australia/Sydney:20261016T134000
+SUMMARY:Pluto Retrograde (05°30' to 03°04')
+DESCRIPTION:Retrograde station at 05°30'; direct station at 03°04'. Dates
+ and times transcribed from Astro-Seek's 2026 retrograde planets calendar.
+URL:https://horoscopes.astro-seek.com/pluto-retrograde-
+ astrology-calendar-2026#list
+END:VEVENT
+BEGIN:VEVENT
+UID:neptune-2026-07-07-2026-12-13@retrograde-planets-2026
+DTSTAMP:20261121T052500Z
+DTSTART;TZID=Australia/Sydney:20260707T205500
+DTEND;TZID=Australia/Sydney:20261213T091700
+SUMMARY:Neptune Retrograde (04°25' to 01°36')
+DESCRIPTION:Retrograde station at 04°25'; direct station at 01°36'. Dates
+ and times transcribed from Astro-Seek's 2026 retrograde planets calendar.
+URL:https://horoscopes.astro-seek.com/neptune-retrograde-
+ astrology-calendar-2026#list
+END:VEVENT
+BEGIN:VEVENT
+UID:saturn-2026-07-27-2026-12-11@retrograde-planets-2026
+DTSTAMP:20261121T052500Z
+DTSTART;TZID=Australia/Sydney:20260727T055600
+DTEND;TZID=Australia/Sydney:20261211T103100
+SUMMARY:Saturn Retrograde (14°45' to 07°55')
+DESCRIPTION:Retrograde station at 14°45'; direct station at 07°55'. Dates
+ and times transcribed from Astro-Seek's 2026 retrograde planets calendar.
+URL:https://horoscopes.astro-seek.com/saturn-retrograde-
+ astrology-calendar-2026#list
+END:VEVENT
+BEGIN:VEVENT
+UID:chiron-2026-08-04-2027-01-06@retrograde-planets-2026
+DTSTAMP:20261121T052500Z
+DTSTART;TZID=Australia/Sydney:20260804T061000
+DTEND;TZID=Australia/Sydney:20270106T220100
+SUMMARY:Chiron Retrograde (00°52' to 26°15')
+DESCRIPTION:Retrograde station at 00°52'; direct station at 26°15'. Dates
+ and times transcribed from Astro-Seek's 2026 retrograde planets calendar.
+URL:https://horoscopes.astro-seek.com/chiron-retrograde-
+ astrology-calendar-2026#list
+END:VEVENT
+BEGIN:VEVENT
+UID:uranus-2026-09-11-2027-02-08@retrograde-planets-2026
+DTSTAMP:20261121T052500Z
+DTSTART;TZID=Australia/Sydney:20260911T042700
+DTEND;TZID=Australia/Sydney:20270208T232900
+SUMMARY:Uranus Retrograde (05°41' to 01°40')
+DESCRIPTION:Retrograde station at 05°41'; direct station at 01°40'. Dates
+ and times transcribed from Astro-Seek's 2026 retrograde planets calendar.
+URL:https://horoscopes.astro-seek.com/uranus-retrograde-
+ astrology-calendar-2026#list
+END:VEVENT
+BEGIN:VEVENT
+UID:venus-2026-10-03-2026-11-14@retrograde-planets-2026
+DTSTAMP:20261121T052500Z
+DTSTART;TZID=Australia/Sydney:20261003T171600
+DTEND;TZID=Australia/Sydney:20261114T112700
+SUMMARY:Venus Retrograde (08°29' to 22°51')
+DESCRIPTION:Retrograde station at 08°29'; direct station at 22°51'. Dates
+ and times transcribed from Astro-Seek's 2026 retrograde planets calendar.
+URL:https://horoscopes.astro-seek.com/venus-retrograde-
+ astrology-calendar-2026#list
+END:VEVENT
+BEGIN:VEVENT
+UID:mercury-2026-10-24-2026-11-14@retrograde-planets-2026
+DTSTAMP:20261121T052500Z
+DTSTART;TZID=Australia/Sydney:20261024T181200
+DTEND;TZID=Australia/Sydney:20261114T025400
+SUMMARY:Mercury Retrograde (20°58' to 05°02')
+DESCRIPTION:Retrograde station at 20°58'; direct station at 05°02'. Dates
+ and times transcribed from Astro-Seek's 2026 retrograde planets calendar.
+URL:https://horoscopes.astro-seek.com/mercury-retrograde-
+ astrology-calendar-2026#list
+END:VEVENT
+END:VCALENDAR
