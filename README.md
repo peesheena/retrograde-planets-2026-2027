@@ -1,18 +1,18 @@
-# Retrograde Planets 2026
+# Retrograde Planets Calendar: 2026-2027
 
-An iCalendar feed that flags each retrograde start and end as a separate timed event. Events use the exact Sydney station moments (`Australia/Sydney`), so calendar apps can convert them to each viewer's local time zone. Descriptions retain the original Sydney time and station degree.
+This repository provides separate iCalendar feeds for planetary retrograde periods in 2026 and 2027.
 
-## Subscribe or download
+## 2026 calendar
 
-- [Subscribe to the calendar](webcal://raw.githubusercontent.com/peesheena/retrograde-planets-2026/main/retrograde-planets-2026.ics)
-- [Download the ICS file](https://raw.githubusercontent.com/peesheena/retrograde-planets-2026/main/retrograde-planets-2026.ics)
+- [Subscribe to the 2026 calendar](webcal://raw.githubusercontent.com/peesheena/retrograde-planets-2026-2027/main/retrograde-planets-2026.ics)
+- [Download the 2026 ICS file](https://raw.githubusercontent.com/peesheena/retrograde-planets-2026-2027/main/retrograde-planets-2026.ics)
 
-The feed includes start/end flags for periods that began in 2025 but continue into 2026, and periods that begin in 2026 but end in 2027. It includes Mercury, Venus, Jupiter, Saturn, Uranus, Neptune, Pluto, and Chiron; Mars has no retrograde period in 2026.
+The 2026 feed flags each retrograde start and end as a timed event using the exact Sydney station moments (`Australia/Sydney`). Calendar apps convert event times to the viewer's time zone. Descriptions retain the original Sydney time and station degree. It includes periods that began in 2025 or end in 2027.
 
 ## 2027 calendar
 
-- [Subscribe to the 2027 calendar](webcal://raw.githubusercontent.com/peesheena/retrograde-planets-2026/main/retrograde-planets-2027.ics)
-- [Download the 2027 ICS file](https://raw.githubusercontent.com/peesheena/retrograde-planets-2026/main/retrograde-planets-2027.ics)
+- [Subscribe to the 2027 calendar](webcal://raw.githubusercontent.com/peesheena/retrograde-planets-2026-2027/main/retrograde-planets-2027.ics)
+- [Download the 2027 ICS file](https://raw.githubusercontent.com/peesheena/retrograde-planets-2026-2027/main/retrograde-planets-2027.ics)
 
 The 2027 calendar flags the start and end dates supplied for each period active during 2027, including periods that began in 2026 or end in 2028. These are all-day date markers because exact station times were not supplied; unlike the 2026 timed feed, their dates do not shift by viewer time zone.
 
