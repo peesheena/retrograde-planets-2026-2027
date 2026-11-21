@@ -1,6 +1,6 @@
 # Retrograde Planets 2026
 
-An iCalendar feed that flags each retrograde start and end as a separate all-day event. Station times and degrees are included in event details and use Sydney, Australia (`Australia/Sydney`).
+An iCalendar feed that flags each retrograde start and end as a separate timed event. Events use the exact Sydney station moments (`Australia/Sydney`), so calendar apps can convert them to each viewer's local time zone. Descriptions retain the original Sydney time and station degree.
 
 ## Subscribe or download
 
