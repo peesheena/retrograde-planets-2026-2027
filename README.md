@@ -1,6 +1,6 @@
 # Retrograde Planets Calendar: 2026-2027
 
-This repository provides separate iCalendar feeds for planetary retrograde periods in 2026 and 2027.
+This repository provides iCalendar feeds for planetary retrograde periods and daily Moon phases across 2026 and 2027.
 
 ## 2026 calendar
 
@@ -15,6 +15,13 @@ The 2026 feed flags each retrograde start and end as a timed event using the exa
 - [Download the 2027 ICS file](https://raw.githubusercontent.com/peesheena/retrograde-planets-2026-2027/main/retrograde-planets-2027.ics)
 
 The 2027 calendar flags the start and end dates supplied for each period active during 2027, including periods that began in 2026 or end in 2028. These are all-day date markers because exact station times were not supplied; unlike the 2026 timed feed, their dates do not shift by viewer time zone.
+
+## Daily Moon phases
+
+- [Subscribe to the daily Moon phase calendar](webcal://raw.githubusercontent.com/peesheena/retrograde-planets-2026-2027/main/moon-phases-2026-2027.ics)
+- [Download the Moon phase ICS file](https://raw.githubusercontent.com/peesheena/retrograde-planets-2026-2027/main/moon-phases-2026-2027.ics)
+
+The feed has one all-day entry for every date from 1 January 2026 through 31 December 2027. Each entry gives the Moon's phase and illuminated fraction at noon in Sydney, Australia. Dates stay fixed as all-day entries; the phase snapshot is based on Sydney local time.
 
 ## Events
 
@@ -34,4 +41,4 @@ The 2027 calendar flags the start and end dates supplied for each period active 
 
 ## Source
 
-2026 dates, times, and station degrees are transcribed from the [Astro-Seek 2026 retrograde planets calendar](https://horoscopes.astro-seek.com/retrograde-planets-astrology-calendar-2026#list). 2027 dates, signs, and degrees were supplied separately; exact times were not available. These are unofficial calendars; verify time-sensitive details with their sources.
+2026 retrograde dates, times, and station degrees are transcribed from the [Astro-Seek 2026 retrograde planets calendar](https://horoscopes.astro-seek.com/retrograde-planets-astrology-calendar-2026#list). 2027 retrograde dates, signs, and degrees were supplied separately; exact times were not available. Daily Moon phase and illumination values come from the [U.S. Naval Observatory Astronomical Applications API](https://aa.usno.navy.mil/data/api), queried for Sydney at local noon.
